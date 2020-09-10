@@ -1,6 +1,6 @@
 ### Hi, I'm Yash Tailor
 
-## I !^(2n-1)love bugs while the value of n depends on the its kind :)
+## I !^(2n-1)love bugs while the value of n depends on its kind :)
 
 <!--
 **yashtailor/yashtailor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
