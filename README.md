@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yash Tailor</h1>
 <h3 align="center"><i>I !<sup>(2n-1)</sup>love bugs while the value of n depends on its kind :)</i></h3>
+<br>
 
 - 🌱 I’m currently learning **ML**
 
@@ -15,6 +16,7 @@
 
 <br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yashtailor&show_icons=true" alt="yashtailor" /></p>
+<br>
 
 <p align="center">
 <a href="https://linkedin.com/in/yash-tailor-166a02165" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="yash-tailor-166a02165" height="30" width="30" /></a>
