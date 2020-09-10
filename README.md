@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yash Tailor</h1>
 <h3 align="center"><i>I !<sup>(2n-1)</sup>love bugs while the value of n depends on its kind :)</i></h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yashtailor" alt="yashtailor" /> </p>
-
 - 🌱 I’m currently learning **ML**
 
 - 📝 I regulary write articles on [yashtailor.codes](yashtailor.codes)
