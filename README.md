@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yash Tailor</h1>
-<h3 align="center"><i>I !<sup>(2n-1)</sup>love bugs while the value of n depends on its kind :)</i></h3>
+<h3 align="center"><i>I !<sup>n</sup>love bugs while the value of n depends on its kind :)</i></h3>
 <br>
 
 - 🌱 I’m currently learning **ML**
