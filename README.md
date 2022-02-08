@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yash Tailor</h1>
 <h3 align="center"><i>Increasing the jitter of efficiency!</i></h3>
+<h5 align="center">Currently working on Natural Language Processing & Blockchain Development</h5>
 <br>
 
 <p align="center">
